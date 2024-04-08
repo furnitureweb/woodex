@@ -151,7 +151,7 @@ whatsappLink9.addEventListener("click", function(event) {
 
 var whatsappLink10 = document.getElementById("whatsappLink10");
 whatsappLink10.addEventListener("click", function(event) {
-  handleWhatsAppClick(event, "Halo, saya ingin membeli Lampu Ruang Tamu & Kamar.");
+  handleWhatsAppClick(event, "Halo, saya ingin membeli Lampu Ruang Tamu & Kamar Tidur.");
 });
 
 var whatsappLink11 = document.getElementById("whatsappLink11");
