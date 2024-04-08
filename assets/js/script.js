@@ -166,7 +166,7 @@ whatsappLink12.addEventListener("click", function(event) {
 
 var whatsappLink13 = document.getElementById("whatsappLink13");
 whatsappLink13.addEventListener("click", function(event) {
-  handleWhatsAppClick(event, "Halo, saya ingin membeli Cobek Kayu.");
+  handleWhatsAppClick(event, "Halo, saya ingin membeli Hiasan Cobek Kayu.");
 });
 
 var whatsappLink14 = document.getElementById("whatsappLink14");
